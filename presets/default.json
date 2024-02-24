@@ -8,7 +8,7 @@
             0.5
         ],
         [
-            "Latex_TankTop_Pants_By_Stable_Yogi.safetensors",
+            "None",
             0.5
         ],
         [
@@ -43,8 +43,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "Latex_TankTop_Pants_By_Stable_Yogi.safetensors": "https://s71.datoid.fun/download/6tx50976zkn147tc3tl83cy8120ybl3g"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
