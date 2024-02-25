@@ -8,7 +8,7 @@
             0.5
         ],
         [
-            "yogapantsv01.safetensors",
+            "",
             0.5
         ],
         [
@@ -46,7 +46,10 @@
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "yogapantsv01.safetensors": "https://civitai.com/api/download/models/137700",
-        "cutoutdressv1.safetensors": "https://civitai.com/api/download/models/162467"
+        "cutoutdressv1.safetensors": "https://civitai.com/api/download/models/162467",
+        "pokies_9.safetensors": "https://civitai.com/api/download/models/32066",
+        "deep_v-neck_dress.safetensors": "https://civitai.com/api/download/models/62173",
+        
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
