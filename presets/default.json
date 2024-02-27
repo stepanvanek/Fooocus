@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "Quality",
     "default_prompt": "",
-    "default_prompt_negative": "Ugly, deformed, text, watermark",
+    "default_prompt_negative": "Ugly, deformed, text, watermark, unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, signature, label",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
