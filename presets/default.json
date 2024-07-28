@@ -4,22 +4,27 @@
     "default_refiner_switch": 0.4,
     "default_loras": [
         [
+            true,
             "sd_xl_offset_example-lora_1.0.safetensors",
             0.5
         ],
         [
+            true,
             "None",
             0.5
         ],
         [
+            true,
             "None",
             1.0
         ],
         [
+            true,
             "None",
             1.0
         ],
         [
+            true,
             "None",
             1.0
         ]
@@ -37,6 +42,7 @@
         "Fooocus Sharp"
     ],
     "default_aspect_ratio": "1152*896",
+    "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "realistic_Vision_V6.0_NV_B1.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1.safetensors?download=true",
